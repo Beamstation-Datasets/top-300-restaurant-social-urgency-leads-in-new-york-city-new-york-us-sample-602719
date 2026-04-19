@@ -9,9 +9,9 @@
 | Dataset ID | `602719` |
 | Location | New York City |
 | Category | Restaurants |
-| Full dataset size | 17,725 records |
-| Free sample size | 1,000 records (5.64%) |
-| Last export | 2026-04-08T05:45:58.321761+00:00 |
+| Full dataset size | 17,492 records |
+| Free sample size | 1,000 records (5.72%) |
+| Last export | 2026-04-15T09:17:23.884107+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-300-restaurant-social-urgency-leads-in-new-york-city-new-york-us-sample-602719/releases/download/sample-latest/beamstation_602719_restaurants-us-ny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
