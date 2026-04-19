@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "--The \"Crisis\" List--\nBusinesses in saturated markets (high intensity) with weak social presence. They must market or they will die. \n\nHighest conversion leads.\n\nHigh urgency score means they are drowning in a crowded market.\n\nBusiness activity in the last 90 days validated by an \"Active Heartbeat\" signal.",
   "config_name": "Top 300 Restaurant Social Urgency Leads in New York City, New York, US",
-  "export_job_id": "e1c91265-6dac-4107-9303-e4ffa3889618",
+  "export_job_id": "5d7621a0-d4ed-44a6-b3ce-d79326c976fb",
   "github_org": "Beamstation-Datasets",
   "id_short": 602719,
   "location_name": "New York City",
   "location_type": "city",
   "repo_name": "top-300-restaurant-social-urgency-leads-in-new-york-city-new-york-us-sample-602719",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/602719/beamstation_602719_restaurants-us-ny_SAMPLE_DIST.csv",
-  "sample_pct": 5.64,
+  "sample_pct": 5.72,
   "sample_records": 1000,
-  "sample_sha256": "9f6560edf0d6eb7c74f463b520a505b9af70c2f833d2d42994cc0be81ccd137b",
-  "sample_size_bytes": 3517114,
-  "total_records": 17725,
-  "updated_at": "2026-04-08T05:45:58.321761+00:00"
+  "sample_sha256": "1926b2bc538de4a30b79f1e06d385e829b761c9c3602174825c7a98087185363",
+  "sample_size_bytes": 3497691,
+  "total_records": 17492,
+  "updated_at": "2026-04-15T09:17:23.884107+00:00"
 }
