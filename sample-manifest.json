@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5d7621a0-d4ed-44a6-b3ce-d79326c976fb",
+  "export_job_id": "afae1058-4db4-47df-b8d6-5465ea8b3da8",
   "id_short": 602719,
-  "published_at": "2026-04-19T07:34:47Z",
+  "published_at": "2026-04-22T19:58:36Z",
   "repo_name": "top-300-restaurant-social-urgency-leads-in-new-york-city-new-york-us-sample-602719",
   "sample_asset_name": "beamstation_602719_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/602719/beamstation_602719_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "1926b2bc538de4a30b79f1e06d385e829b761c9c3602174825c7a98087185363",
-  "sample_size_bytes": 3497691,
-  "total_records": 17492
+  "sample_sha256": "71a0a912027c86a79c36de87a8c4e15279af8a1992dc2a58dc3efde10d47afbb",
+  "sample_size_bytes": 3506446,
+  "total_records": 20240
 }
